@@ -1,0 +1,8 @@
+.use-move-btn{
+    border:none;
+    outline: none;
+}
+.use-move-btn:focus{
+    border: none;
+    
+}
